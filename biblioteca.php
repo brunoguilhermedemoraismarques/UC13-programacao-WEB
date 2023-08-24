@@ -40,10 +40,26 @@ class emprestimo{
 }
 //Exemplo de objeto
 $Usuario1 = new Usuario;
-$Usuario1->nome = 'Abençocado';
+$Usuario1->nome = 'Abencoado';
 $Usuario1->email= '@gmail.com';
 $Usuario1->senha = "teste123";
-
-
-
 ?>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <hr>sistema de biblioteca<hr>;
+            </h3>sistema de cadastro</h3>;
+            <inplut> name = "pessoa" type = 
+
+     
+</body>
+</html>
